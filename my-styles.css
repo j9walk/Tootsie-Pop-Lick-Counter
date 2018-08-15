@@ -1,0 +1,25 @@
+
+body {
+	text-align: center;
+	margin-top: 50px;
+	background-image: url(MrOWl.jpg);
+	background-size: cover;
+
+
+
+}
+
+button,
+button:focus {
+	touch-action: manipulation;
+	font-size: 40px;
+	padding: 10px;
+}
+
+h1, h2, h3, h4 {
+	background: lightblue;
+
+	h1,h2 {padding: 10px;}
+	
+}
+
